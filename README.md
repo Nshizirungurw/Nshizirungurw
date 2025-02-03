@@ -9,10 +9,6 @@
 - <!--- Instagram : https://www.instagram.com/nshizirungurw/
 -       LinkedIn : https://www.linkedin.com/in/shema-christian-020837300/
         --->
-- 😄 Pronouns: ...
-- 
-- ⚡ Fun fact: ...
-
 <!---
 Nshizirungurw/Nshizirungurw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
